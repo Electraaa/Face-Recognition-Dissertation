@@ -1,0 +1,25 @@
+
+Terms & Conditions
+
+By enrolling to this system you activate a mechanism that acquires
+a number of photographs that are stored and processed in order to
+extract biometric data which would be used to train the system to
+automatically recognize you in the future. You will also be asked
+for your name which will be linked to this biometric data in order
+for the system to identify you when it sees you. This data is considered
+sensitive personal information and its acquisition and processing falls under
+the GDPR rules framework for data protection. These data belongs to YOU.
+It does not give us any right to process or share these data except for the
+purposes of proving the functionality of this system. Two months after system
+demonstration your image data and its derivatives including any links to your
+name will be permanently deleted.
+We need your permission to do things like acquiring pictures of you,
+processing your biometric information and name, for the purpose of this
+system to automatically recognise you and indicate your identity.
+You must give us your permission to do this and this permission
+extends to that your data will be used only locally solely for the purposes
+of this project and not be shared in any way.
+
+Press enter to accept the Terms & Conditions
+
+
